@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Padavan配置</title>
+      <link href="/posts/b48675d3.html"/>
+      <url>/posts/b48675d3.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="ipv6外网访问"><a href="#ipv6外网访问" class="headerlink" title="ipv6外网访问"></a>ipv6外网访问</h2><p>自定义设置-脚本-在防火墙规则启动后执行:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">ip6tables -F</span><br><span class="line">ip6tables -X</span><br><span class="line">ip6tables -P INPUT ACCEPT</span><br><span class="line">ip6tables -P OUTPUT ACCEPT</span><br><span class="line">ip6tables -P FORWARD ACCEPT</span><br></pre></td></tr></table></figure><h2 id="ipv6访问某些站点异常（如百度网盘）"><a href="#ipv6访问某些站点异常（如百度网盘）" class="headerlink" title="ipv6访问某些站点异常（如百度网盘）"></a>ipv6访问某些站点异常（如百度网盘）</h2><p>自定义设置-脚本-在防火墙规则启动后执行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ip6tables -t mangle -I FORWARD -p tcp --tcp-flags SYN,RST SYN -j TCPMSS --set-mss 1432</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HEXO重装日记</title>
       <link href="/posts/6827e688.html"/>
       <url>/posts/6827e688.html</url>

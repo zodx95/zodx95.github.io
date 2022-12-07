@@ -6,7 +6,7 @@
   <link href="https://www.zodx.vip/atom.xml" rel="self"/>
   
   <link href="https://www.zodx.vip/"/>
-  <updated>2022-12-07T04:32:09.332Z</updated>
+  <updated>2022-12-07T07:33:40.199Z</updated>
   <id>https://www.zodx.vip/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Padavan配置</title>
+    <link href="https://www.zodx.vip/posts/b48675d3.html"/>
+    <id>https://www.zodx.vip/posts/b48675d3.html</id>
+    <published>2022-12-07T06:38:59.000Z</published>
+    <updated>2022-12-07T07:33:40.199Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="ipv6外网访问"><a href="#ipv6外网访问" class="headerlink" title="ipv6外网访问"></a>ipv6外网访问</h2><p>自定义设置-脚本-在防火墙规则启动后执行:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">ip6tables -F</span><br><span class="line">ip6tables -X</span><br><span class="line">ip6tables -P INPUT ACCEPT</span><br><span class="line">ip6tables -P OUTPUT ACCEPT</span><br><span class="line">ip6tables -P FORWARD ACCEPT</span><br></pre></td></tr></table></figure><h2 id="ipv6访问某些站点异常（如百度网盘）"><a href="#ipv6访问某些站点异常（如百度网盘）" class="headerlink" title="ipv6访问某些站点异常（如百度网盘）"></a>ipv6访问某些站点异常（如百度网盘）</h2><p>自定义设置-脚本-在防火墙规则启动后执行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ip6tables -t mangle -I FORWARD -p tcp --tcp-flags SYN,RST SYN -j TCPMSS --set-mss 1432</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;ipv6外网访问&quot;&gt;&lt;a href=&quot;#ipv6外网访问&quot; class=&quot;headerlink&quot; title=&quot;ipv6外网访问&quot;&gt;&lt;/a&gt;ipv6外网访问&lt;/h2&gt;&lt;p&gt;自定义设置-脚本-在防火墙规则启动后执行:&lt;/p&gt;
+&lt;figure class=&quot;highl</summary>
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://www.zodx.vip/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>HEXO重装日记</title>

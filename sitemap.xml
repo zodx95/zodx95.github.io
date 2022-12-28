@@ -2,9 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.zodx.vip/posts/6827e688.html</loc>
+    <loc>https://www.zodx.vip/posts/b48675d3.html</loc>
     
-    <lastmod>2022-12-07</lastmod>
+    <lastmod>2022-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/about/index.html</loc>
+    
+    <lastmod>2022-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/gallery/index.html</loc>
+    
+    <lastmod>2022-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2022-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/gallery/life/index.html</loc>
+    
+    <lastmod>2022-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/gallery/black/index.html</loc>
+    
+    <lastmod>2022-12-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +58,25 @@
   <url>
     <loc>https://www.zodx.vip/link/index.html</loc>
     
-    <lastmod>2022-12-07</lastmod>
+    <lastmod>2022-12-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.zodx.vip/posts/b48675d3.html</loc>
+    <loc>https://www.zodx.vip/posts/6827e688.html</loc>
     
-    <lastmod>2022-12-07</lastmod>
+    <lastmod>2022-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/posts/575674fc.html</loc>
+    
+    <lastmod>2022-12-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +94,7 @@
 
   <url>
     <loc>https://www.zodx.vip/</loc>
-    <lastmod>2022-12-07</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +102,7 @@
   
   <url>
     <loc>https://www.zodx.vip/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-12-07</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

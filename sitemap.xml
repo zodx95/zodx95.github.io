@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.zodx.vip/posts/4a17b156.html</loc>
-    
-    <lastmod>2023-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zodx.vip/manifest.json</loc>
     
     <lastmod>2023-02-15</lastmod>
@@ -21,6 +12,51 @@
   
   <url>
     <loc>https://www.zodx.vip/link/index.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/posts/4a17b156.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/posts/6827e688.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/posts/b48675d3.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/posts/575674fc.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zodx.vip/about/index.html</loc>
     
     <lastmod>2023-02-15</lastmod>
     
@@ -47,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://www.zodx.vip/gallery/wallpaper/index.html</loc>
-    
-    <lastmod>2023-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zodx.vip/gallery/life/index.html</loc>
     
     <lastmod>2023-02-15</lastmod>
@@ -65,34 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.zodx.vip/posts/575674fc.html</loc>
-    
-    <lastmod>2023-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zodx.vip/posts/b48675d3.html</loc>
-    
-    <lastmod>2023-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zodx.vip/posts/6827e688.html</loc>
-    
-    <lastmod>2023-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.zodx.vip/about/index.html</loc>
+    <loc>https://www.zodx.vip/gallery/wallpaper/index.html</loc>
     
     <lastmod>2023-02-15</lastmod>
     
